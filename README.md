@@ -1,7 +1,7 @@
 # grafana
 **Some notes on getting Grafana set up and working**  
 
-I mostly use REHL  
+I mostly use RHEL  
 - wget https://dl.grafana.com/oss/release/grafana-7.5.4-1.x86_64.rpm  
 - sudo yum install grafana-7.5.4-1.x86_64.rpm  
 
