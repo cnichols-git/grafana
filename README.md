@@ -12,4 +12,8 @@ I mostly use REHL
 
 **Other host cannot access this server because it is on port 3000**  
 - sudo firewall-cmd --add-port=3000/tcp --permanent
-- sudo firewall-cmd --reload
+- sudo firewall-cmd --reload  
+
+Now in a browser http://serverIP:3000  
+default log in admin/admin  
+
