@@ -17,7 +17,7 @@ I mostly use RHEL
 Now in a browser http://serverIP:3000  
 default log in admin/admin  
 
-** Let's do this in a container using docker compose, docker and connecting it to Prometheus as it's database **
+**Let's do this in a container using docker compose, docker and connecting it to Prometheus as it's database**
 
 <code>---
 volumes:
