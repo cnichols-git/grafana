@@ -19,8 +19,7 @@ default log in admin/admin
 
 ** Let's do this in a container using docker compose, docker and connecting it to Prometheus as it's database **
 
-<code>
----
+<code>---
 volumes:
   grafana-data:
     driver: local
