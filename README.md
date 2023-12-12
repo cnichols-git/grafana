@@ -33,3 +33,6 @@ services:
       - grafana-data:/grafana-data/data
     restart: unless-stopped</code>
 https://developer.couchbase.com/tutorial-node-exporter-setup
+
+Ubuntu fw command:
+sudo ufw allow from any to any port 53 proto tcp
